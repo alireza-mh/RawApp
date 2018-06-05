@@ -14,4 +14,8 @@ also you can build project by npm.
 ```sh
 npm run build
 ```
+## Test
+```sh
+npm test
+```
 
