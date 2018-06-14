@@ -3,7 +3,7 @@
 
 raw application with es6 with jest and gulp
 ## Installation
-clone the project and just install dependecies and you are good to go.
+clone the project and just install dependencies and you are good to go.
 ```sh
  npm install
 ```
