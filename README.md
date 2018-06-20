@@ -8,7 +8,11 @@ clone the project and just install dependencies and you are good to go.
  npm install
 ```
 ## Start
-you can use gulp as watcher and auto builder.
+you can use watch command as watcher and auto builder.
+```sh
+npm run watch
+```
+also if you installed gulp globally you can use gulp command directly.
 ```sh
 gulp watch
 ```

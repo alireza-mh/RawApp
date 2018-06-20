@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "watch" : "node ./node_modules/.bin/gulp watch",
     "build": "babel src -d lib"
   },
   "keywords": [],
