@@ -20,6 +20,10 @@ also you can build project by npm.
 ```sh
 npm run build
 ```
+you can compile your file as library. (library folder)
+```sh
+npm run buildlib
+```
 ## Test
 ```sh
 npm test
