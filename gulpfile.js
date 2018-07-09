@@ -8,7 +8,7 @@ gulp.task('watch', function() {
 gulp.task("runBabel", function () {
     gulp.src("./src/**/*.js")
         .pipe(babel({
-            presets: ["env"]
+            presets: ["env","stage0"]
         }))
         .pipe(gulp.dest('lib'))
 });

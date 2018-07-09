@@ -1,6 +1,14 @@
+#IDE Files
 .idea
 .vscode
+
+#Node Modules
 node_modules
+
+#Build Files
 lib
 dist
+
+#Error
+yarn-error.log
 
