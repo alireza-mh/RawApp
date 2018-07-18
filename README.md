@@ -24,6 +24,11 @@ you can compile your file as library. (library folder)
 ```sh
 npm run buildlib
 ```
+Run webpack server.
+```sh
+npm run dev
+```
+
 ## Test
 ```sh
 npm test
