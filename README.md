@@ -5,12 +5,12 @@ raw application with es6 with jest and gulp.
 ## Installation
 clone the project and just install dependencies and you are good to go.
 ```sh
- npm install
+ yarn install
 ```
 ## Start
 you can use watch command as watcher and auto builder.
 ```sh
-npm run watch
+yarn watch
 ```
 also if you installed gulp globally you can use gulp command directly.
 ```sh
@@ -18,19 +18,19 @@ gulp watch
 ```
 also you can build project by npm.
 ```sh
-npm run build
+yarn build
 ```
 you can compile your file as library. (library folder)
 ```sh
-npm run buildlib
+yarn buildlib
 ```
 Run webpack server.
 ```sh
-npm run dev
+yarn dev
 ```
 
 ## Test
 ```sh
-npm test
+yarn test
 ```
 
