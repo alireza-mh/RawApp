@@ -8,6 +8,10 @@ clone the project and just install dependencies and you are good to go.
 ```sh
  yarn install
 ```
+of
+```sh
+ yarn
+```
 ## Start
 you can use watch command as watcher and auto builder.
 ```sh
