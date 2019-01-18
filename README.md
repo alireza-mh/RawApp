@@ -9,7 +9,7 @@ clone the project and just install dependencies and you are good to go.
 ```sh
  yarn install
 ```
-of
+or
 ```sh
  yarn
 ```
