@@ -7,16 +7,12 @@ this project have rollup and webpack config you can use either one of theme.
 ## Installation
 clone the project and just install dependencies and you are good to go.
 ```sh
- yarn install
-```
-or
-```sh
- yarn
+ npm run install
 ```
 ## Start
 you can use watch command as watcher and auto builder.
 ```sh
-yarn watch
+npm run watch
 ```
 also if you installed gulp globally you can use gulp command directly.
 ```sh
@@ -24,19 +20,19 @@ gulp watch
 ```
 also you can build project by npm.(Rollup)
 ```sh
-yarn build
+npm run build
 ```
 you can compile your file as library. (library folder)
 ```sh
-yarn buildlib
+npm run buildlib
 ```
 Run webpack server.
 ```sh
-yarn dev
+npm run dev
 ```
 
 ## Test
 ```sh
-yarn test
+npm run test
 ```
 
