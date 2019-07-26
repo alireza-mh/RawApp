@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/alireza-mh/RawApp.svg?branch=master)](https://travis-ci.org/alireza-mh/RawApp)
 [![CircleCI](https://circleci.com/gh/alireza-mh/RawApp.svg?style=svg)](https://circleci.com/gh/alireza-mh/RawApp)
 
-Raw application with es6 with jest and gulp.
+Raw application with ES6 with jest and gulp.
 this project have rollup and webpack config you can use either one of theme.
 ## Installation
 clone the project and just install dependencies and you are good to go.
