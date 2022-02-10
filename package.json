@@ -27,7 +27,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^22.4.2",
     "merge": "1.2.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^2.1.6",
     "rollup-plugin-babel": "^3.0.7",
     "rollup-plugin-node-resolve": "^3.3.0",
